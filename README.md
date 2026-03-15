@@ -33,7 +33,7 @@ I build web scrapers, dashboards, and landing pages — fast and clean.
 - 📊 **Data Entry & Processing** — CSV, JSON, Google Sheets
 - 🤖 **AI-Assisted Development** — Claude & Gemini as coding co-pilots
 
-📬 **Hire me on [Upwork](https://www.upwork.com/freelancers/andika)**
+📬 **Hire me on [Upwork](https://www.upwork.com/freelancers/andikaz)**
 
 ---
 
