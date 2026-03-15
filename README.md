@@ -17,12 +17,12 @@ I build web scrapers, dashboards, and landing pages — fast and clean.
 
 ## 📦 Portfolio Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🕷️ Python Scraper Toolkit](https://github.com/Zaydensth/python-scraper-toolkit) | ProductScraper Pro — retry logic, UA rotation, CSV/JSON export | Python, BeautifulSoup |
-| [◆ NexaFlow Landing Page](https://github.com/Zaydensth/nexaflow-landing-page) | SaaS landing page — dark mode, animations, pricing toggle | HTML, CSS, JS |
-| [📊 CryptoVision Dashboard](https://github.com/Zaydensth/cryptovision-dashboard) | Real-time crypto tracker — live CoinGecko API, chart, converter | Vanilla JS, Canvas API |
-| [📡 PriceWatch Tracker](https://github.com/Zaydensth/pricewatch-tracker) | Price monitoring dashboard — alerts, history chart, multi-platform | Python, Playwright, HTML |
+| Project | Description | Live | Tech |
+|---------|-------------|------|------|
+| [🕷️ Python Scraper Toolkit](https://github.com/Zaydensth/python-scraper-toolkit) | ProductScraper Pro — retry logic, UA rotation, CSV/JSON export | — | Python, BeautifulSoup |
+| [◆ NexaFlow Landing Page](https://github.com/Zaydensth/nexaflow-landing-page) | SaaS landing page — dark mode, animations, pricing toggle | [🌐 Demo](https://zaydensth.github.io/nexaflow-landing-page/) | HTML, CSS, JS |
+| [📊 CryptoVision Dashboard](https://github.com/Zaydensth/cryptovision-dashboard) | Real-time crypto tracker — live CoinGecko API, chart, converter | [🌐 Demo](https://zaydensth.github.io/cryptovision-dashboard/) | Vanilla JS, Canvas API |
+| [📡 PriceWatch Tracker](https://github.com/Zaydensth/pricewatch-tracker) | Price monitoring dashboard — alerts, history chart, multi-platform | [🌐 Demo](https://zaydensth.github.io/pricewatch-tracker/) | Python, Playwright, HTML |
 
 ---
 
