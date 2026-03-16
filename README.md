@@ -23,6 +23,8 @@ I build web scrapers, dashboards, and landing pages — fast and clean.
 | [◆ NexaFlow Landing Page](https://github.com/Zaydensth/nexaflow-landing-page) | SaaS landing page — dark mode, animations, pricing toggle | [🌐 Demo](https://zaydensth.github.io/nexaflow-landing-page/) | HTML, CSS, JS |
 | [📊 CryptoVision Dashboard](https://github.com/Zaydensth/cryptovision-dashboard) | Real-time crypto tracker — live CoinGecko API, chart, converter | [🌐 Demo](https://zaydensth.github.io/cryptovision-dashboard/) | Vanilla JS, Canvas API |
 | [📡 PriceWatch Tracker](https://github.com/Zaydensth/pricewatch-tracker) | Price monitoring dashboard — alerts, history chart, multi-platform | [🌐 Demo](https://zaydensth.github.io/pricewatch-tracker/) | Python, Playwright, HTML |
+| [🎭 Playwright Scraper](https://github.com/Zaydensth/playwright-scraper-demo) | Browser automation scraper for JS-heavy websites | — | Python, Playwright |
+| [📊 Sheets Automation](https://github.com/Zaydensth/sheets-automation) | Google Sheets read, write, clean & export automation | — | Python, gspread |
 
 ---
 
