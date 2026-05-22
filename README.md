@@ -3,10 +3,9 @@
 **Developer based in Indonesia 🇮🇩** — I ship things, then take them apart
 to figure out why they're slow.
 
-Lately most of my time goes into **LLM post-training and adaptive
-hyperparameter optimization** — DPO, GRPO, instruction tuning, and
-making fine-tuning behave under tight time budgets. Before that: web
-scrapers, dashboards, and landing pages.
+Most of my time goes into **LLM post-training and adaptive hyperparameter
+optimization** — DPO, GRPO, instruction tuning, and making fine-tuning
+behave under tight time budgets.
 
 ---
 
@@ -29,12 +28,6 @@ scrapers, dashboards, and landing pages.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![pydantic](https://img.shields.io/badge/pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 
-**Frontend & automation**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white)
-
 ---
 
 ## 🔬 Current focus
@@ -52,26 +45,12 @@ scrapers, dashboards, and landing pages.
 
 ---
 
-## 📦 Portfolio Projects
-
-| Project | Description | Live | Tech |
-|---------|-------------|------|------|
-| [🕷️ Python Scraper Toolkit](https://github.com/Zaydensth/python-scraper-toolkit) | ProductScraper Pro — retry logic, UA rotation, CSV/JSON export | — | Python, BeautifulSoup |
-| [◆ NexaFlow Landing Page](https://github.com/Zaydensth/nexaflow-landing-page) | SaaS landing page — dark mode, animations, pricing toggle | [🌐 Demo](https://zaydensth.github.io/nexaflow-landing-page/) | HTML, CSS, JS |
-| [📊 CryptoVision Dashboard](https://github.com/Zaydensth/cryptovision-dashboard) | Real-time crypto tracker — live CoinGecko API, chart, converter | [🌐 Demo](https://zaydensth.github.io/cryptovision-dashboard/) | Vanilla JS, Canvas API |
-| [📡 PriceWatch Tracker](https://github.com/Zaydensth/pricewatch-tracker) | Price monitoring dashboard — alerts, history chart, multi-platform | [🌐 Demo](https://zaydensth.github.io/pricewatch-tracker/) | Python, Playwright, HTML |
-| [🎭 Playwright Scraper](https://github.com/Zaydensth/playwright-scraper-demo) | Browser automation scraper for JS-heavy websites | — | Python, Playwright |
-| [📊 Sheets Automation](https://github.com/Zaydensth/sheets-automation) | Google Sheets read, write, clean & export automation | — | Python, gspread |
-
----
-
 ## 💼 Available for Freelance
 
 - 🤖 **LLM fine-tuning** — DPO, GRPO, SFT, LoRA, reward function design
 - 🐳 **ML infrastructure** — multi-GPU orchestration, Docker, Grafana/Loki
-- 🔍 **Web Scraping & Automation** — Python, Playwright, BeautifulSoup
-- 🌐 **Landing Pages & Dashboards** — HTML/CSS/JS, responsive design
-- 📊 **Data Processing** — CSV, JSON, Google Sheets pipelines
+- 🔬 **Training pipelines** — adaptive HP, dataset preparation,
+  evaluation harnesses
 
 📬 **Hire me on [Upwork](https://www.upwork.com/freelancers/andikaz)**
 
